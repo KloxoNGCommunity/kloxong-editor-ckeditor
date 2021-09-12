@@ -51,7 +51,7 @@ install -m 644 %{SOURCE1} $RPM_BUILD_ROOT%{kloxo}/%{packagename}/kloxo.js
 - change product name to kloxong
 - add obsolete for kloxomr 
 
-* Thu Jun 07 2017 Mustafa Ramadhan <mustafa@bigraf.com> - 4.5.11-1.mr
+* Wed Jun 07 2017 Mustafa Ramadhan <mustafa@bigraf.com> - 4.5.11-1.mr
 - update
 
 * Sat Sep 12 2015 Mustafa Ramadhan <mustafa@bigraf.com> - 4.5.3-1.mr
@@ -75,19 +75,19 @@ install -m 644 %{SOURCE1} $RPM_BUILD_ROOT%{kloxo}/%{packagename}/kloxo.js
 * Fri Jun 27 2014 Mustafa Ramadhan <mustafa@bigraf.com> - 4.4.1-3.mr
 - change custom config to kloxo.js and fix content (change to full from body)
 
-* Wed Jun 20 2014 Mustafa Ramadhan <mustafa@bigraf.com> - 4.4.1-2.mr
+* Fri Jun 20 2014 Mustafa Ramadhan <mustafa@bigraf.com> - 4.4.1-2.mr
 - move to editor dir
 
 * Thu Jun 19 2014 Mustafa Ramadhan <mustafa@bigraf.com> - 4.4.1-1.mr
 - update to 4.4.1, add custom config.js and no obsoletes for fckeditor
 
-* Tue Sep 23 2013 Mustafa Ramadhan <mustafa@bigraf.com> - 4.2.1-2.mr
+* Mon Sep 23 2013 Mustafa Ramadhan <mustafa@bigraf.com> - 4.2.1-2.mr
 - fix obsolote entry
 
-* Tue Sep 23 2013 Mustafa Ramadhan <mustafa@bigraf.com> - 4.2.1-1.mr
+* Mon Sep 23 2013 Mustafa Ramadhan <mustafa@bigraf.com> - 4.2.1-1.mr
 - update to 4.2.1
 
-* Tue Sep 23 2013 Mustafa Ramadhan <mustafa@bigraf.com> - 3.6.4-3.mr
+* Mon Sep 23 2013 Mustafa Ramadhan <mustafa@bigraf.com> - 3.6.4-3.mr
 - change conflict with obsolete
 
 * Sun Feb 17 2013 Mustafa Ramadhan <mustafa@bigraf.com> - 3.6.4-2.mr
